@@ -1,0 +1,9 @@
+.skill-img {
+    max-width: 150px;
+    height: auto;
+    margin: 10px;
+
+    &:hover {
+        transform: scale(105%);
+    }
+}
